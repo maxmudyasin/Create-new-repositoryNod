@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "hookyqr.beautify",
+        "visualstudioexptteam.vscodeintellicode",
+        "visualstudioexptteam.intellicode-api-usage-examples",
+        "ms-dotnettools.dotnet-interactive-vscode",
+        "shan.code-settings-sync"
+    ]
+}
